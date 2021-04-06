@@ -9,7 +9,7 @@ Decorator allows us to add ("decorate") new functionality to a class dynamically
 
 <h1 align="center">📑 USAGE 👁‍🗨</h1>
 <p align="center">
-<a href="https://docs.google.com/presentation/d/12kJ_A0kYY2fhxlfuIxF29bzsdJ8NXkhNernUeDrqrxQ"><img src="https://img.shields.io/badge/FIRST STEP-READ%20THE%SLIDE-lime?style=for-the-badge&logo=docusign&logoColor=lime"></a>
+<a href="https://docs.google.com/presentation/d/12kJ_A0kYY2fhxlfuIxF29bzsdJ8NXkhNernUeDrqrxQ"><img src="https://img.shields.io/badge/FIRST%20STEP-READ%20THE%20SLIDE-lime?style=for-the-badge&logo=docusign&logoColor=lime"></a>
 <a href="https://github.com/orbitturner/array-querier/issues/new/choose"><img src="https://img.shields.io/badge/ISSUES-CREATE%20AN%20ISSUE-crimson?style=for-the-badge&logo=indeed&logoColor=CRIMSON"></a>
 </p>
 <br/>
